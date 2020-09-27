@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Nabeel. I like Compilers, Kernels and Networks.
-
-I'm a Masters student at Cardiff University. And an intern at Sony Interactive Entertainment.
+<div>
+    <img src="https://github.com/nabeelomer/nabeelomer/raw/master/gif.gif">
+</div>
 
 <!--
 **nabeelomer/nabeelomer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
