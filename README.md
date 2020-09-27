@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div>
     <img src="https://github.com/nabeelomer/nabeelomer/raw/master/gif.gif">
 </div>
