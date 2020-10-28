@@ -1,6 +1,6 @@
 Hi I'm Nabeel.
 
-I'm a postgraduate student of Computer Science at Cardiff University in Wales and a compiler engineer at Sony Interactive Entertainment Europe.
+I'm a postgraduate student of Computer Science at Cardiff University in Wales and an engineering intern at Sony Interactive Entertainment Europe.
 
 <!--
 **nabeelomer/nabeelomer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
